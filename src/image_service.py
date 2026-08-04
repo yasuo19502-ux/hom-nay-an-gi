@@ -17,36 +17,25 @@ class ImageResult:
         self.height = height
 
 @st.cache_data(ttl=86400, show_spinner=False)
-def search_pexels(queries: List[str]) -> Dict[str, Any]:
-    if not Config.PEXELS_API_KEY:
-        return None
-        
-    headers = {"Authorization": Config.PEXELS_API_KEY}
-    
-    for query in queries:
+def _fetch_pexels_cached(queries_tuple: tuple, api_key: str) -> Dict[str, Any]:
+    headers = {"Authorization": api_key}
+    for query in queries_tuple:
         url = f"https://api.pexels.com/v1/search?query={query}&per_page=15&orientation=landscape"
         try:
             res = requests.get(url, headers=headers, timeout=5)
             res.raise_for_status()
             data = res.json()
             photos = data.get("photos", [])
-            
-            # Filter photos
-            valid_photos = []
-            for p in photos:
-                alt = (p.get("alt") or "").lower()
-                # Basic filter to avoid completely unrelated alt text if needed
-                valid_photos.append(p)
-                
-            if valid_photos:
-                # Randomly pick from top 3 to avoid boredom
-                top_3 = valid_photos[:3]
-                chosen = random.choice(top_3)
-                return chosen
-        except Exception as e:
+            if photos:
+                return random.choice(photos[:3])
+        except Exception:
             continue
-            
     return None
+
+def search_pexels(queries: List[str]) -> Dict[str, Any]:
+    if not Config.PEXELS_API_KEY:
+        return None
+    return _fetch_pexels_cached(tuple(queries), Config.PEXELS_API_KEY)
 
 def get_dish_image(dish_id: str, name: str, emoji: str, category: str, queries: List[str]) -> ImageResult:
     if "image_cache" not in st.session_state:
@@ -57,7 +46,6 @@ def get_dish_image(dish_id: str, name: str, emoji: str, category: str, queries: 
         if cached.source == "pexels" or not Config.PEXELS_API_KEY:
             return cached
         
-    # Try Pexels
     photo = search_pexels(queries)
     if photo:
         result = ImageResult(
@@ -73,7 +61,6 @@ def get_dish_image(dish_id: str, name: str, emoji: str, category: str, queries: 
         st.session_state.image_cache[dish_id] = result
         return result
         
-    # 3. Fallback to Pillow
     fallback_path = create_pillow_fallback(name, emoji, category)
     result = ImageResult(
         image_url=fallback_path,
