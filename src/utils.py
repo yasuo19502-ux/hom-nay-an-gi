@@ -1,13 +1,10 @@
 import os
-from PIL import Image, ImageDraw, ImageFont
 import base64
-from io import BytesIO
+from PIL import Image, ImageDraw, ImageFont
 
 def create_pillow_fallback(name: str, emoji: str, category: str) -> str:
-    # Ensure assets dir exists
     os.makedirs("assets", exist_ok=True)
     
-    # Simple color map based on category
     color_map = {
         "noodles": ((255, 230, 204), (255, 179, 102)),
         "rice": ((230, 242, 255), (153, 204, 255)),
@@ -25,26 +22,31 @@ def create_pillow_fallback(name: str, emoji: str, category: str) -> str:
     img = Image.new('RGB', (width, height), color=colors[0])
     draw = ImageDraw.Draw(img)
     
-    # Draw simple gradient
     for y in range(height):
         r = int(colors[0][0] + (colors[1][0] - colors[0][0]) * y / height)
         g = int(colors[0][1] + (colors[1][1] - colors[0][1]) * y / height)
         b = int(colors[0][2] + (colors[1][2] - colors[0][2]) * y / height)
         draw.line([(0, y), (width, y)], fill=(r, g, b))
     
-    # Try to load a font, otherwise use default
-    try:
-        font_large = ImageFont.truetype("/System/Library/Fonts/Supplemental/Arial Unicode.ttf", 80)
-        font_small = ImageFont.truetype("/System/Library/Fonts/Supplemental/Arial Unicode.ttf", 40)
-    except Exception:
-        font_large = ImageFont.load_default()
-        font_small = ImageFont.load_default()
+    font_paths = [
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/System/Library/Fonts/Supplemental/Arial.ttf",
+        "/Library/Fonts/Arial.ttf"
+    ]
+    font = None
+    for path in font_paths:
+        if os.path.exists(path):
+            try:
+                font = ImageFont.truetype(path, 48)
+                break
+            except Exception:
+                pass
+    if not font:
+        font = ImageFont.load_default()
 
-    # Draw text
-    draw.text((width//2, height//2 - 50), emoji, font=font_large, fill=(50, 50, 50), anchor="mm")
-    draw.text((width//2, height//2 + 50), name, font=font_small, fill=(50, 50, 50), anchor="mm")
+    draw.text((width//2, height//2), name, font=font, fill=(40, 40, 40), anchor="mm")
     
-    filename = f"assets/fallback_{category}_{hash(name)}.jpg"
+    filename = f"assets/fallback_{category}_{abs(hash(name))}.jpg"
     img.save(filename, format="JPEG")
     return filename
 
