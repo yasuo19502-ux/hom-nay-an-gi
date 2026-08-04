@@ -36,7 +36,7 @@ def render_header():
 <p style="color: var(--text-muted); font-size: 16px; margin-top: 0; font-weight: 500;">{subline}</p>
 <div class="weather-pill">🌦 Hà Nội · {weather_ctx['temp']}°C · {weather_ctx['description'].split(',')[1].split('.')[0].strip() if ',' in weather_ctx['description'] else 'Dễ chịu'}</div>
 </div>"""
-    st.markdown(header_html, unsafe_allow_html=True)
+    st.html(header_html)
 
 def render_dish_card(dish: Dish, current_mood: str):
     weather_ctx = get_current_weather_context()
@@ -83,4 +83,4 @@ def render_dish_card(dish: Dish, current_mood: str):
 </div>
 </div>
 </div>"""
-    st.markdown(card_html, unsafe_allow_html=True)
+    st.html(card_html)

@@ -1,6 +1,11 @@
 import os
 import base64
+import unicodedata
 from PIL import Image, ImageDraw, ImageFont
+
+def remove_accents(input_str: str) -> str:
+    nfkd_form = unicodedata.normalize('NFKD', input_str)
+    return "".join([c for c in nfkd_form if not unicodedata.combining(c)])
 
 def create_pillow_fallback(name: str, emoji: str, category: str) -> str:
     os.makedirs("assets", exist_ok=True)
@@ -44,7 +49,8 @@ def create_pillow_fallback(name: str, emoji: str, category: str) -> str:
     if not font:
         font = ImageFont.load_default()
 
-    draw.text((width//2, height//2), name, font=font, fill=(40, 40, 40), anchor="mm")
+    display_text = remove_accents(name)
+    draw.text((width//2, height//2), display_text, font=font, fill=(40, 40, 40), anchor="mm")
     
     filename = f"assets/fallback_{category}_{abs(hash(name))}.jpg"
     img.save(filename, format="JPEG")
