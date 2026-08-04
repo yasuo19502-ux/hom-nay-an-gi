@@ -49,14 +49,15 @@ def search_pexels(queries: List[str]) -> Dict[str, Any]:
     return None
 
 def get_dish_image(dish_id: str, name: str, emoji: str, category: str, queries: List[str]) -> ImageResult:
-    # 1. Check cache
     if "image_cache" not in st.session_state:
         st.session_state.image_cache = {}
         
     if dish_id in st.session_state.image_cache:
-        return st.session_state.image_cache[dish_id]
+        cached = st.session_state.image_cache[dish_id]
+        if cached.source == "pexels" or not Config.PEXELS_API_KEY:
+            return cached
         
-    # 2. Pexels
+    # Try Pexels
     photo = search_pexels(queries)
     if photo:
         result = ImageResult(
