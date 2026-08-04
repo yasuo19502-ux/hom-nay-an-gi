@@ -1,0 +1,5515 @@
+[
+  {
+    "id": "pho_bo",
+    "name": "Phở Bò",
+    "short_name": "Phở Bò",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm phở bò đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết phở bò là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Bò"
+    ],
+    "price_min": 35000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese phở bò food",
+      "vietnam phở bò",
+      "phở bò dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Phở Bò ngon Hà Nội"
+  },
+  {
+    "id": "pho_ga",
+    "name": "Phở Gà",
+    "short_name": "Phở Gà",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm phở gà đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết phở gà là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 35000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese phở gà food",
+      "vietnam phở gà",
+      "phở gà dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Phở Gà ngon Hà Nội"
+  },
+  {
+    "id": "pho_sot_vang",
+    "name": "Phở Sốt Vang",
+    "short_name": "Phở Sốt Vang",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm phở sốt vang đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết phở sốt vang là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Bò"
+    ],
+    "price_min": 45000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese phở sốt vang food",
+      "vietnam phở sốt vang",
+      "phở sốt vang dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Phở Sốt Vang ngon Hà Nội"
+  },
+  {
+    "id": "bun_cha",
+    "name": "Bún Chả",
+    "short_name": "Bún Chả",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm bún chả đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún chả là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 35000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún chả food",
+      "vietnam bún chả",
+      "bún chả dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Chả ngon Hà Nội"
+  },
+  {
+    "id": "bun_rieu",
+    "name": "Bún Riêu",
+    "short_name": "Bún Riêu",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún riêu đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún riêu là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 30000,
+    "price_max": 55000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún riêu food",
+      "vietnam bún riêu",
+      "bún riêu dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Riêu ngon Hà Nội"
+  },
+  {
+    "id": "bun_oc",
+    "name": "Bún Ốc",
+    "short_name": "Bún Ốc",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún ốc đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún ốc là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 35000,
+    "price_max": 55000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún ốc food",
+      "vietnam bún ốc",
+      "bún ốc dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Ốc ngon Hà Nội"
+  },
+  {
+    "id": "bun_moc",
+    "name": "Bún Mọc",
+    "short_name": "Bún Mọc",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún mọc đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún mọc là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 35000,
+    "price_max": 50000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún mọc food",
+      "vietnam bún mọc",
+      "bún mọc dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Mọc ngon Hà Nội"
+  },
+  {
+    "id": "bun_thang",
+    "name": "Bún Thang",
+    "short_name": "Bún Thang",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún thang đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún thang là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà",
+      "Lợn",
+      "Trứng"
+    ],
+    "main_ingredients": [
+      "Gà",
+      "Lợn",
+      "Trứng"
+    ],
+    "price_min": 40000,
+    "price_max": 65000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún thang food",
+      "vietnam bún thang",
+      "bún thang dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Thang ngon Hà Nội"
+  },
+  {
+    "id": "bun_ca",
+    "name": "Bún Cá",
+    "short_name": "Bún Cá",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún cá đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún cá là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 35000,
+    "price_max": 50000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún cá food",
+      "vietnam bún cá",
+      "bún cá dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Cá ngon Hà Nội"
+  },
+  {
+    "id": "mien_luon",
+    "name": "Miến Lươn",
+    "short_name": "Miến Lươn",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm miến lươn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết miến lươn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 40000,
+    "price_max": 65000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese miến lươn food",
+      "vietnam miến lươn",
+      "miến lươn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Miến Lươn ngon Hà Nội"
+  },
+  {
+    "id": "mien_ga",
+    "name": "Miến Gà",
+    "short_name": "Miến Gà",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm miến gà đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết miến gà là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 35000,
+    "price_max": 55000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese miến gà food",
+      "vietnam miến gà",
+      "miến gà dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Miến Gà ngon Hà Nội"
+  },
+  {
+    "id": "mien_tron",
+    "name": "Miến Trộn",
+    "short_name": "Miến Trộn",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm miến trộn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết miến trộn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [],
+    "main_ingredients": [],
+    "price_min": 35000,
+    "price_max": 50000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese miến trộn food",
+      "vietnam miến trộn",
+      "miến trộn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Miến Trộn ngon Hà Nội"
+  },
+  {
+    "id": "chao_suon",
+    "name": "Cháo Sườn",
+    "short_name": "Cháo Sườn",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm cháo sườn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cháo sườn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Xế",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 20000,
+    "price_max": 40000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 8,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cháo sườn food",
+      "vietnam cháo sườn",
+      "cháo sườn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cháo Sườn ngon Hà Nội"
+  },
+  {
+    "id": "chao_long",
+    "name": "Cháo Lòng",
+    "short_name": "Cháo Lòng",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm cháo lòng đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cháo lòng là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 30000,
+    "price_max": 50000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cháo lòng food",
+      "vietnam cháo lòng",
+      "cháo lòng dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cháo Lòng ngon Hà Nội"
+  },
+  {
+    "id": "chao_trai",
+    "name": "Cháo Trai",
+    "short_name": "Cháo Trai",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm cháo trai đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cháo trai là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 15000,
+    "price_max": 30000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cháo trai food",
+      "vietnam cháo trai",
+      "cháo trai dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cháo Trai ngon Hà Nội"
+  },
+  {
+    "id": "xoi_xeo",
+    "name": "Xôi Xéo",
+    "short_name": "Xôi Xéo",
+    "emoji": "🍚",
+    "description": "Tuyệt phẩm xôi xéo đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết xôi xéo là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Cơm"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Gạo"
+    ],
+    "price_min": 15000,
+    "price_max": 35000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese xôi xéo food",
+      "vietnam xôi xéo",
+      "xôi xéo dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Xôi Xéo ngon Hà Nội"
+  },
+  {
+    "id": "xoi_thit",
+    "name": "Xôi Thịt",
+    "short_name": "Xôi Thịt",
+    "emoji": "🍚",
+    "description": "Tuyệt phẩm xôi thịt đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết xôi thịt là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Cơm"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Gạo"
+    ],
+    "price_min": 25000,
+    "price_max": 45000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese xôi thịt food",
+      "vietnam xôi thịt",
+      "xôi thịt dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Xôi Thịt ngon Hà Nội"
+  },
+  {
+    "id": "xoi_ga",
+    "name": "Xôi Gà",
+    "short_name": "Xôi Gà",
+    "emoji": "🍚",
+    "description": "Tuyệt phẩm xôi gà đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết xôi gà là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Cơm"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà",
+      "Gạo"
+    ],
+    "price_min": 35000,
+    "price_max": 55000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese xôi gà food",
+      "vietnam xôi gà",
+      "xôi gà dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Xôi Gà ngon Hà Nội"
+  },
+  {
+    "id": "banh_cuon",
+    "name": "Bánh Cuốn",
+    "short_name": "Bánh Cuốn",
+    "emoji": "🌯",
+    "description": "Tuyệt phẩm bánh cuốn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh cuốn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 25000,
+    "price_max": 45000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh cuốn food",
+      "vietnam bánh cuốn",
+      "bánh cuốn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Cuốn ngon Hà Nội"
+  },
+  {
+    "id": "banh_mi",
+    "name": "Bánh Mì",
+    "short_name": "Bánh Mì",
+    "emoji": "🥖",
+    "description": "Tuyệt phẩm bánh mì đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh mì là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Xế",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhanh"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 15000,
+    "price_max": 35000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh mì food",
+      "vietnam bánh mì",
+      "bánh mì dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Mì ngon Hà Nội"
+  },
+  {
+    "id": "com_rang_dua_bo",
+    "name": "Cơm Rang Dưa Bò",
+    "short_name": "Cơm Rang",
+    "emoji": "🍛",
+    "description": "Tuyệt phẩm cơm rang dưa bò đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm rang dưa bò là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Khô"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Bò",
+      "Gạo"
+    ],
+    "price_min": 40000,
+    "price_max": 65000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cơm rang dưa bò food",
+      "vietnam cơm rang dưa bò",
+      "cơm rang dưa bò dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Rang Dưa Bò ngon Hà Nội"
+  },
+  {
+    "id": "com_rang_thap_cam",
+    "name": "Cơm Rang Thập Cẩm",
+    "short_name": "Cơm Thập Cẩm",
+    "emoji": "🍛",
+    "description": "Tuyệt phẩm cơm rang thập cẩm đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm rang thập cẩm là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Khô"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn",
+      "Trứng"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Trứng",
+      "Gạo"
+    ],
+    "price_min": 35000,
+    "price_max": 55000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cơm rang thập cẩm food",
+      "vietnam cơm rang thập cẩm",
+      "cơm rang thập cẩm dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Rang Thập Cẩm ngon Hà Nội"
+  },
+  {
+    "id": "com_ga",
+    "name": "Cơm Gà",
+    "short_name": "Cơm Gà",
+    "emoji": "🍛",
+    "description": "Tuyệt phẩm cơm gà đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm gà là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Khô"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà",
+      "Gạo"
+    ],
+    "price_min": 45000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cơm gà food",
+      "vietnam cơm gà",
+      "cơm gà dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Gà ngon Hà Nội"
+  },
+  {
+    "id": "com_tam",
+    "name": "Cơm Tấm",
+    "short_name": "Cơm Tấm",
+    "emoji": "🍛",
+    "description": "Tuyệt phẩm cơm tấm đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm tấm là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Khô"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Gạo"
+    ],
+    "price_min": 40000,
+    "price_max": 80000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cơm tấm food",
+      "vietnam cơm tấm",
+      "cơm tấm dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Tấm ngon Hà Nội"
+  },
+  {
+    "id": "com_nieu",
+    "name": "Cơm Niêu",
+    "short_name": "Cơm Niêu",
+    "emoji": "🥘",
+    "description": "Tuyệt phẩm cơm niêu đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm niêu là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Khô"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [],
+    "main_ingredients": [
+      "Gạo"
+    ],
+    "price_min": 50000,
+    "price_max": 100000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cơm niêu food",
+      "vietnam cơm niêu",
+      "cơm niêu dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Niêu ngon Hà Nội"
+  },
+  {
+    "id": "com_van_phong",
+    "name": "Cơm Văn Phòng",
+    "short_name": "Cơm VP",
+    "emoji": "🍱",
+    "description": "Tuyệt phẩm cơm văn phòng đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm văn phòng là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Nhanh"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [],
+    "main_ingredients": [
+      "Gạo"
+    ],
+    "price_min": 35000,
+    "price_max": 50000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese cơm văn phòng food",
+      "vietnam cơm văn phòng",
+      "cơm văn phòng dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Văn Phòng ngon Hà Nội"
+  },
+  {
+    "id": "bun_dau_mam_tom",
+    "name": "Bún Đậu Mắm Tôm",
+    "short_name": "Bún Đậu",
+    "emoji": "🥗",
+    "description": "Tuyệt phẩm bún đậu mắm tôm đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún đậu mắm tôm là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 35000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún đậu mắm tôm food",
+      "vietnam bún đậu mắm tôm",
+      "bún đậu mắm tôm dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Đậu Mắm Tôm ngon Hà Nội"
+  },
+  {
+    "id": "cha_ca",
+    "name": "Chả Cá",
+    "short_name": "Chả Cá",
+    "emoji": "🐟",
+    "description": "Tuyệt phẩm chả cá đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết chả cá là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 120000,
+    "price_max": 200000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese chả cá food",
+      "vietnam chả cá",
+      "chả cá dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Chả Cá ngon Hà Nội"
+  },
+  {
+    "id": "lau_rieu_cua",
+    "name": "Lẩu Riêu Cua",
+    "short_name": "Lẩu Riêu",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm lẩu riêu cua đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết lẩu riêu cua là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản",
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Hải sản",
+      "Bò"
+    ],
+    "price_min": 150000,
+    "price_max": 300000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese lẩu riêu cua food",
+      "vietnam lẩu riêu cua",
+      "lẩu riêu cua dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Lẩu Riêu Cua ngon Hà Nội"
+  },
+  {
+    "id": "lau_thai",
+    "name": "Lẩu Thái",
+    "short_name": "Lẩu Thái",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm lẩu thái đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết lẩu thái là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 150000,
+    "price_max": 300000,
+    "spice_level": 2,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese lẩu thái food",
+      "vietnam lẩu thái",
+      "lẩu thái dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Lẩu Thái ngon Hà Nội"
+  },
+  {
+    "id": "lau_ga",
+    "name": "Lẩu Gà",
+    "short_name": "Lẩu Gà",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm lẩu gà đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết lẩu gà là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 150000,
+    "price_max": 250000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese lẩu gà food",
+      "vietnam lẩu gà",
+      "lẩu gà dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Lẩu Gà ngon Hà Nội"
+  },
+  {
+    "id": "lau_ech",
+    "name": "Lẩu Ếch",
+    "short_name": "Lẩu Ếch",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm lẩu ếch đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết lẩu ếch là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [],
+    "main_ingredients": [],
+    "price_min": 150000,
+    "price_max": 250000,
+    "spice_level": 1,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese lẩu ếch food",
+      "vietnam lẩu ếch",
+      "lẩu ếch dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Lẩu Ếch ngon Hà Nội"
+  },
+  {
+    "id": "ga_tan",
+    "name": "Gà Tần",
+    "short_name": "Gà Tần",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm gà tần đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết gà tần là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 50000,
+    "price_max": 80000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese gà tần food",
+      "vietnam gà tần",
+      "gà tần dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Gà Tần ngon Hà Nội"
+  },
+  {
+    "id": "mi_van_than",
+    "name": "Mì Vằn Thắn",
+    "short_name": "Mì Vằn Thắn",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm mì vằn thắn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết mì vằn thắn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn",
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Hải sản"
+    ],
+    "price_min": 40000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese mì vằn thắn food",
+      "vietnam mì vằn thắn",
+      "mì vằn thắn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Mì Vằn Thắn ngon Hà Nội"
+  },
+  {
+    "id": "mi_tron",
+    "name": "Mì Trộn",
+    "short_name": "Mì Trộn",
+    "emoji": "🍝",
+    "description": "Tuyệt phẩm mì trộn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết mì trộn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [],
+    "main_ingredients": [],
+    "price_min": 35000,
+    "price_max": 50000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese mì trộn food",
+      "vietnam mì trộn",
+      "mì trộn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Mì Trộn ngon Hà Nội"
+  },
+  {
+    "id": "mi_cay",
+    "name": "Mì Cay",
+    "short_name": "Mì Cay",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm mì cay đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết mì cay là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 40000,
+    "price_max": 70000,
+    "spice_level": 3,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese mì cay food",
+      "vietnam mì cay",
+      "mì cay dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Mì Cay ngon Hà Nội"
+  },
+  {
+    "id": "pho_cuon",
+    "name": "Phở Cuốn",
+    "short_name": "Phở Cuốn",
+    "emoji": "🌯",
+    "description": "Tuyệt phẩm phở cuốn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết phở cuốn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Bò"
+    ],
+    "price_min": 40000,
+    "price_max": 80000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese phở cuốn food",
+      "vietnam phở cuốn",
+      "phở cuốn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Phở Cuốn ngon Hà Nội"
+  },
+  {
+    "id": "nem_nuong",
+    "name": "Nem Nướng",
+    "short_name": "Nem Nướng",
+    "emoji": "🍢",
+    "description": "Tuyệt phẩm nem nướng đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết nem nướng là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 30000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese nem nướng food",
+      "vietnam nem nướng",
+      "nem nướng dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Nem Nướng ngon Hà Nội"
+  },
+  {
+    "id": "banh_trang_tron",
+    "name": "Bánh Tráng Trộn",
+    "short_name": "Bánh Tráng",
+    "emoji": "🥗",
+    "description": "Tuyệt phẩm bánh tráng trộn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh tráng trộn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò",
+      "Trứng"
+    ],
+    "main_ingredients": [
+      "Bò",
+      "Trứng"
+    ],
+    "price_min": 20000,
+    "price_max": 35000,
+    "spice_level": 1,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh tráng trộn food",
+      "vietnam bánh tráng trộn",
+      "bánh tráng trộn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Tráng Trộn ngon Hà Nội"
+  },
+  {
+    "id": "tao_pho",
+    "name": "Tào Phớ",
+    "short_name": "Tào Phớ",
+    "emoji": "🍨",
+    "description": "Tuyệt phẩm tào phớ đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết tào phớ là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Ngọt",
+      "Ăn vặt",
+      "Mát"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [],
+    "main_ingredients": [],
+    "price_min": 10000,
+    "price_max": 20000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese tào phớ food",
+      "vietnam tào phớ",
+      "tào phớ dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Tào Phớ ngon Hà Nội"
+  },
+  {
+    "id": "che",
+    "name": "Chè",
+    "short_name": "Chè",
+    "emoji": "🍧",
+    "description": "Tuyệt phẩm chè đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết chè là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Ngọt",
+      "Ăn vặt",
+      "Mát"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [],
+    "main_ingredients": [],
+    "price_min": 15000,
+    "price_max": 30000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese chè food",
+      "vietnam chè",
+      "chè dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Chè ngon Hà Nội"
+  },
+  {
+    "id": "sua_chua",
+    "name": "Sữa Chua",
+    "short_name": "Sữa Chua",
+    "emoji": "🍦",
+    "description": "Tuyệt phẩm sữa chua đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết sữa chua là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Ngọt",
+      "Ăn vặt",
+      "Mát"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Sữa"
+    ],
+    "main_ingredients": [
+      "Sữa"
+    ],
+    "price_min": 15000,
+    "price_max": 30000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese sữa chua food",
+      "vietnam sữa chua",
+      "sữa chua dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Sữa Chua ngon Hà Nội"
+  },
+  {
+    "id": "kem",
+    "name": "Kem",
+    "short_name": "Kem",
+    "emoji": "🍦",
+    "description": "Tuyệt phẩm kem đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết kem là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Ngọt",
+      "Ăn vặt",
+      "Mát"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Sữa"
+    ],
+    "main_ingredients": [
+      "Sữa"
+    ],
+    "price_min": 10000,
+    "price_max": 30000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese kem food",
+      "vietnam kem",
+      "kem dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Kem ngon Hà Nội"
+  },
+  {
+    "id": "pizza",
+    "name": "Pizza",
+    "short_name": "Pizza",
+    "emoji": "🍕",
+    "description": "Tuyệt phẩm pizza đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết pizza là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhanh"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Sữa",
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Sữa",
+      "Lợn"
+    ],
+    "price_min": 100000,
+    "price_max": 300000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese pizza food",
+      "vietnam pizza",
+      "pizza dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Pizza ngon Hà Nội"
+  },
+  {
+    "id": "burger",
+    "name": "Burger",
+    "short_name": "Burger",
+    "emoji": "🍔",
+    "description": "Tuyệt phẩm burger đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết burger là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhanh"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Bò"
+    ],
+    "price_min": 40000,
+    "price_max": 100000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese burger food",
+      "vietnam burger",
+      "burger dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Burger ngon Hà Nội"
+  },
+  {
+    "id": "ga_ran",
+    "name": "Gà Rán",
+    "short_name": "Gà Rán",
+    "emoji": "🍗",
+    "description": "Tuyệt phẩm gà rán đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết gà rán là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Xế"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhanh"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 40000,
+    "price_max": 150000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese gà rán food",
+      "vietnam gà rán",
+      "gà rán dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Gà Rán ngon Hà Nội"
+  },
+  {
+    "id": "sushi",
+    "name": "Sushi",
+    "short_name": "Sushi",
+    "emoji": "🍣",
+    "description": "Tuyệt phẩm sushi đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết sushi là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 100000,
+    "price_max": 500000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese sushi food",
+      "vietnam sushi",
+      "sushi dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Sushi ngon Hà Nội"
+  },
+  {
+    "id": "salad",
+    "name": "Salad",
+    "short_name": "Salad",
+    "emoji": "🥗",
+    "description": "Tuyệt phẩm salad đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết salad là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Healthy",
+      "Chay"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [
+      "Chay",
+      "Ít béo"
+    ],
+    "avoid_ingredients": [],
+    "main_ingredients": [],
+    "price_min": 40000,
+    "price_max": 120000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese salad food",
+      "vietnam salad",
+      "salad dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Salad ngon Hà Nội"
+  },
+  {
+    "id": "do_chay",
+    "name": "Đồ Chay",
+    "short_name": "Đồ Chay",
+    "emoji": "🥬",
+    "description": "Tuyệt phẩm đồ chay đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết đồ chay là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối",
+      "Xế"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Healthy",
+      "Chay"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [
+      "Chay",
+      "Ít béo"
+    ],
+    "avoid_ingredients": [
+      "Bò",
+      "Lợn",
+      "Gà",
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Bò",
+      "Lợn",
+      "Gà",
+      "Hải sản"
+    ],
+    "price_min": 30000,
+    "price_max": 80000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese đồ chay food",
+      "vietnam đồ chay",
+      "đồ chay dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Đồ Chay ngon Hà Nội"
+  },
+  {
+    "id": "bun_bo_hue",
+    "name": "Bún Bò Huế",
+    "short_name": "Bún Bò",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún bò huế đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún bò huế là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò",
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Bò",
+      "Lợn"
+    ],
+    "price_min": 40000,
+    "price_max": 70000,
+    "spice_level": 1,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún bò huế food",
+      "vietnam bún bò huế",
+      "bún bò huế dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Bò Huế ngon Hà Nội"
+  },
+  {
+    "id": "hu_tieu",
+    "name": "Hủ Tiếu",
+    "short_name": "Hủ Tiếu",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm hủ tiếu đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết hủ tiếu là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn",
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Hải sản"
+    ],
+    "price_min": 35000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese hủ tiếu food",
+      "vietnam hủ tiếu",
+      "hủ tiếu dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Hủ Tiếu ngon Hà Nội"
+  },
+  {
+    "id": "com_suon",
+    "name": "Cơm Sườn",
+    "short_name": "Cơm Sườn",
+    "emoji": "🍛",
+    "description": "Tuyệt phẩm cơm sườn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm sườn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Khô"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Gạo"
+    ],
+    "price_min": 40000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cơm sườn food",
+      "vietnam cơm sườn",
+      "cơm sườn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Sườn ngon Hà Nội"
+  },
+  {
+    "id": "banh_xeo",
+    "name": "Bánh Xèo",
+    "short_name": "Bánh Xèo",
+    "emoji": "🌮",
+    "description": "Tuyệt phẩm bánh xèo đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh xèo là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn",
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Hải sản"
+    ],
+    "price_min": 30000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh xèo food",
+      "vietnam bánh xèo",
+      "bánh xèo dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Xèo ngon Hà Nội"
+  },
+  {
+    "id": "nem_lui",
+    "name": "Nem Lụi",
+    "short_name": "Nem Lụi",
+    "emoji": "🍢",
+    "description": "Tuyệt phẩm nem lụi đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết nem lụi là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 30000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese nem lụi food",
+      "vietnam nem lụi",
+      "nem lụi dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Nem Lụi ngon Hà Nội"
+  },
+  {
+    "id": "banh_goi",
+    "name": "Bánh Gối",
+    "short_name": "Bánh Gối",
+    "emoji": "🥟",
+    "description": "Tuyệt phẩm bánh gối đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh gối là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 15000,
+    "price_max": 40000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh gối food",
+      "vietnam bánh gối",
+      "bánh gối dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Gối ngon Hà Nội"
+  },
+  {
+    "id": "banh_ran_man",
+    "name": "Bánh Rán Mặn",
+    "short_name": "Bánh Rán",
+    "emoji": "🥯",
+    "description": "Tuyệt phẩm bánh rán mặn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh rán mặn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 10000,
+    "price_max": 30000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh rán mặn food",
+      "vietnam bánh rán mặn",
+      "bánh rán mặn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Rán Mặn ngon Hà Nội"
+  },
+  {
+    "id": "banh_tom",
+    "name": "Bánh Tôm",
+    "short_name": "Bánh Tôm",
+    "emoji": "🍤",
+    "description": "Tuyệt phẩm bánh tôm đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh tôm là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 30000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh tôm food",
+      "vietnam bánh tôm",
+      "bánh tôm dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Tôm ngon Hà Nội"
+  },
+  {
+    "id": "banh_duc_nong",
+    "name": "Bánh Đúc Nóng",
+    "short_name": "Bánh Đúc",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm bánh đúc nóng đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh đúc nóng là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 15000,
+    "price_max": 30000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh đúc nóng food",
+      "vietnam bánh đúc nóng",
+      "bánh đúc nóng dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Đúc Nóng ngon Hà Nội"
+  },
+  {
+    "id": "bun_ngan",
+    "name": "Bún Ngan",
+    "short_name": "Bún Ngan",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún ngan đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún ngan là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 40000,
+    "price_max": 65000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún ngan food",
+      "vietnam bún ngan",
+      "bún ngan dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Ngan ngon Hà Nội"
+  },
+  {
+    "id": "bun_vit",
+    "name": "Bún Vịt",
+    "short_name": "Bún Vịt",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún vịt đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún vịt là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 40000,
+    "price_max": 65000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún vịt food",
+      "vietnam bún vịt",
+      "bún vịt dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Vịt ngon Hà Nội"
+  },
+  {
+    "id": "ngan_chay_toi",
+    "name": "Ngan Cháy Tỏi",
+    "short_name": "Ngan Tỏi",
+    "emoji": "🍗",
+    "description": "Tuyệt phẩm ngan cháy tỏi đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết ngan cháy tỏi là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [
+      "Ít béo"
+    ],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 150000,
+    "price_max": 250000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese ngan cháy tỏi food",
+      "vietnam ngan cháy tỏi",
+      "ngan cháy tỏi dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Ngan Cháy Tỏi ngon Hà Nội"
+  },
+  {
+    "id": "ga_luoc",
+    "name": "Gà Luộc",
+    "short_name": "Gà Luộc",
+    "emoji": "🍗",
+    "description": "Tuyệt phẩm gà luộc đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết gà luộc là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 100000,
+    "price_max": 300000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese gà luộc food",
+      "vietnam gà luộc",
+      "gà luộc dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Gà Luộc ngon Hà Nội"
+  },
+  {
+    "id": "ga_nuong",
+    "name": "Gà Nướng",
+    "short_name": "Gà Nướng",
+    "emoji": "🍗",
+    "description": "Tuyệt phẩm gà nướng đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết gà nướng là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 100000,
+    "price_max": 300000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese gà nướng food",
+      "vietnam gà nướng",
+      "gà nướng dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Gà Nướng ngon Hà Nội"
+  },
+  {
+    "id": "vit_quay",
+    "name": "Vịt Quay",
+    "short_name": "Vịt Quay",
+    "emoji": "🍗",
+    "description": "Tuyệt phẩm vịt quay đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết vịt quay là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 150000,
+    "price_max": 300000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese vịt quay food",
+      "vietnam vịt quay",
+      "vịt quay dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Vịt Quay ngon Hà Nội"
+  },
+  {
+    "id": "lon_quay",
+    "name": "Lợn Quay",
+    "short_name": "Lợn Quay",
+    "emoji": "🍖",
+    "description": "Tuyệt phẩm lợn quay đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết lợn quay là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 150000,
+    "price_max": 300000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese lợn quay food",
+      "vietnam lợn quay",
+      "lợn quay dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Lợn Quay ngon Hà Nội"
+  },
+  {
+    "id": "bo_ne",
+    "name": "Bò Né",
+    "short_name": "Bò Né",
+    "emoji": "🥩",
+    "description": "Tuyệt phẩm bò né đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bò né là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò",
+      "Trứng"
+    ],
+    "main_ingredients": [
+      "Bò",
+      "Trứng"
+    ],
+    "price_min": 50000,
+    "price_max": 100000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bò né food",
+      "vietnam bò né",
+      "bò né dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bò Né ngon Hà Nội"
+  },
+  {
+    "id": "bo_bit_tet",
+    "name": "Bò Bít Tết",
+    "short_name": "Bít Tết",
+    "emoji": "🥩",
+    "description": "Tuyệt phẩm bò bít tết đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bò bít tết là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Sang"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Bò"
+    ],
+    "price_min": 70000,
+    "price_max": 200000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bò bít tết food",
+      "vietnam bò bít tết",
+      "bò bít tết dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bò Bít Tết ngon Hà Nội"
+  },
+  {
+    "id": "mi_y",
+    "name": "Mì Ý",
+    "short_name": "Mì Ý",
+    "emoji": "🍝",
+    "description": "Tuyệt phẩm mì ý đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết mì ý là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Bò"
+    ],
+    "price_min": 60000,
+    "price_max": 150000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese mì ý food",
+      "vietnam mì ý",
+      "mì ý dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Mì Ý ngon Hà Nội"
+  },
+  {
+    "id": "banh_bao",
+    "name": "Bánh Bao",
+    "short_name": "Bánh Bao",
+    "emoji": "🥟",
+    "description": "Tuyệt phẩm bánh bao đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh bao là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Xế",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn",
+      "Trứng"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Trứng"
+    ],
+    "price_min": 15000,
+    "price_max": 30000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh bao food",
+      "vietnam bánh bao",
+      "bánh bao dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Bao ngon Hà Nội"
+  },
+  {
+    "id": "xuc_xich",
+    "name": "Xúc Xích",
+    "short_name": "Xúc Xích",
+    "emoji": "🌭",
+    "description": "Tuyệt phẩm xúc xích đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết xúc xích là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt",
+      "Nhanh"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 15000,
+    "price_max": 35000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese xúc xích food",
+      "vietnam xúc xích",
+      "xúc xích dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Xúc Xích ngon Hà Nội"
+  },
+  {
+    "id": "thit_xien_nuong",
+    "name": "Thịt Xiên",
+    "short_name": "Thịt Xiên",
+    "emoji": "🍢",
+    "description": "Tuyệt phẩm thịt xiên đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết thịt xiên là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 10000,
+    "price_max": 50000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese thịt xiên food",
+      "vietnam thịt xiên",
+      "thịt xiên dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Thịt Xiên ngon Hà Nội"
+  },
+  {
+    "id": "oc_luoc",
+    "name": "Ốc Luộc",
+    "short_name": "Ốc Luộc",
+    "emoji": "🐌",
+    "description": "Tuyệt phẩm ốc luộc đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết ốc luộc là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 40000,
+    "price_max": 100000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese ốc luộc food",
+      "vietnam ốc luộc",
+      "ốc luộc dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Ốc Luộc ngon Hà Nội"
+  },
+  {
+    "id": "oc_xao",
+    "name": "Ốc Xào",
+    "short_name": "Ốc Xào",
+    "emoji": "🐌",
+    "description": "Tuyệt phẩm ốc xào đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết ốc xào là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 50000,
+    "price_max": 120000,
+    "spice_level": 1,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese ốc xào food",
+      "vietnam ốc xào",
+      "ốc xào dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Ốc Xào ngon Hà Nội"
+  },
+  {
+    "id": "nem_chua_ran",
+    "name": "Nem Chua Rán",
+    "short_name": "Nem Rán",
+    "emoji": "🍢",
+    "description": "Tuyệt phẩm nem chua rán đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết nem chua rán là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 30000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese nem chua rán food",
+      "vietnam nem chua rán",
+      "nem chua rán dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Nem Chua Rán ngon Hà Nội"
+  },
+  {
+    "id": "chan_ga_sa_ot",
+    "name": "Chân Gà Sả Ớt",
+    "short_name": "Chân Gà",
+    "emoji": "🍗",
+    "description": "Tuyệt phẩm chân gà sả ớt đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết chân gà sả ớt là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Nhậu",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 50000,
+    "price_max": 100000,
+    "spice_level": 2,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese chân gà sả ớt food",
+      "vietnam chân gà sả ớt",
+      "chân gà sả ớt dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Chân Gà Sả Ớt ngon Hà Nội"
+  },
+  {
+    "id": "lau_bo",
+    "name": "Lẩu Bò",
+    "short_name": "Lẩu Bò",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm lẩu bò đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết lẩu bò là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Bò"
+    ],
+    "price_min": 150000,
+    "price_max": 300000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese lẩu bò food",
+      "vietnam lẩu bò",
+      "lẩu bò dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Lẩu Bò ngon Hà Nội"
+  },
+  {
+    "id": "lau_nam",
+    "name": "Lẩu Nấm",
+    "short_name": "Lẩu Nấm",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm lẩu nấm đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết lẩu nấm là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Healthy",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [],
+    "main_ingredients": [],
+    "price_min": 150000,
+    "price_max": 300000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese lẩu nấm food",
+      "vietnam lẩu nấm",
+      "lẩu nấm dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Lẩu Nấm ngon Hà Nội"
+  },
+  {
+    "id": "lau_hai_san",
+    "name": "Lẩu Hải Sản",
+    "short_name": "Lẩu HS",
+    "emoji": "🍲",
+    "description": "Tuyệt phẩm lẩu hải sản đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết lẩu hải sản là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Nhậu"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 200000,
+    "price_max": 500000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese lẩu hải sản food",
+      "vietnam lẩu hải sản",
+      "lẩu hải sản dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Lẩu Hải Sản ngon Hà Nội"
+  },
+  {
+    "id": "bun_hai_san",
+    "name": "Bún Hải Sản",
+    "short_name": "Bún HS",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún hải sản đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún hải sản là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 40000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún hải sản food",
+      "vietnam bún hải sản",
+      "bún hải sản dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Hải Sản ngon Hà Nội"
+  },
+  {
+    "id": "banh_da_cua",
+    "name": "Bánh Đa Cua",
+    "short_name": "Bánh Đa",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bánh đa cua đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh đa cua là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 35000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh đa cua food",
+      "vietnam bánh đa cua",
+      "bánh đa cua dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Đa Cua ngon Hà Nội"
+  },
+  {
+    "id": "mien_cua",
+    "name": "Miến Cua",
+    "short_name": "Miến Cua",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm miến cua đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết miến cua là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 40000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese miến cua food",
+      "vietnam miến cua",
+      "miến cua dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Miến Cua ngon Hà Nội"
+  },
+  {
+    "id": "com_chien_hai_san",
+    "name": "Cơm Chiên HS",
+    "short_name": "Cơm HS",
+    "emoji": "🍛",
+    "description": "Tuyệt phẩm cơm chiên hs đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm chiên hs là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Khô"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản",
+      "Gạo"
+    ],
+    "price_min": 50000,
+    "price_max": 90000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cơm chiên hs food",
+      "vietnam cơm chiên hs",
+      "cơm chiên hs dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Chiên HS ngon Hà Nội"
+  },
+  {
+    "id": "com_chay",
+    "name": "Cơm Chay",
+    "short_name": "Cơm Chay",
+    "emoji": "🍛",
+    "description": "Tuyệt phẩm cơm chay đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm chay là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Chay",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [
+      "Chay",
+      "Ít béo"
+    ],
+    "avoid_ingredients": [
+      "Bò",
+      "Lợn",
+      "Gà",
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Bò",
+      "Lợn",
+      "Gà",
+      "Hải sản",
+      "Gạo"
+    ],
+    "price_min": 30000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cơm chay food",
+      "vietnam cơm chay",
+      "cơm chay dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Chay ngon Hà Nội"
+  },
+  {
+    "id": "bun_chay",
+    "name": "Bún Chay",
+    "short_name": "Bún Chay",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún chay đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún chay là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Chay",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [
+      "Chay",
+      "Ít béo"
+    ],
+    "avoid_ingredients": [
+      "Bò",
+      "Lợn",
+      "Gà",
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Bò",
+      "Lợn",
+      "Gà",
+      "Hải sản"
+    ],
+    "price_min": 30000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún chay food",
+      "vietnam bún chay",
+      "bún chay dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Chay ngon Hà Nội"
+  },
+  {
+    "id": "pho_chay",
+    "name": "Phở Chay",
+    "short_name": "Phở Chay",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm phở chay đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết phở chay là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Chay",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [
+      "Chay",
+      "Ít béo"
+    ],
+    "avoid_ingredients": [
+      "Bò",
+      "Lợn",
+      "Gà",
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Bò",
+      "Lợn",
+      "Gà",
+      "Hải sản"
+    ],
+    "price_min": 35000,
+    "price_max": 65000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese phở chay food",
+      "vietnam phở chay",
+      "phở chay dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Phở Chay ngon Hà Nội"
+  },
+  {
+    "id": "sup_luon",
+    "name": "Súp Lươn",
+    "short_name": "Súp Lươn",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm súp lươn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết súp lươn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 30000,
+    "price_max": 60000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese súp lươn food",
+      "vietnam súp lươn",
+      "súp lươn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Súp Lươn ngon Hà Nội"
+  },
+  {
+    "id": "sup_cua",
+    "name": "Súp Cua",
+    "short_name": "Súp Cua",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm súp cua đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết súp cua là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 20000,
+    "price_max": 40000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese súp cua food",
+      "vietnam súp cua",
+      "súp cua dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Súp Cua ngon Hà Nội"
+  },
+  {
+    "id": "sup_ga",
+    "name": "Súp Gà",
+    "short_name": "Súp Gà",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm súp gà đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết súp gà là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Xế",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 20000,
+    "price_max": 40000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 8,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese súp gà food",
+      "vietnam súp gà",
+      "súp gà dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Súp Gà ngon Hà Nội"
+  },
+  {
+    "id": "chao_chim",
+    "name": "Cháo Chim",
+    "short_name": "Cháo Chim",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm cháo chim đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cháo chim là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Healthy"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Gà"
+    ],
+    "main_ingredients": [
+      "Gà"
+    ],
+    "price_min": 50000,
+    "price_max": 100000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 8,
+    "popularity_score": 9,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cháo chim food",
+      "vietnam cháo chim",
+      "cháo chim dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cháo Chim ngon Hà Nội"
+  },
+  {
+    "id": "xoi_man",
+    "name": "Xôi Mặn",
+    "short_name": "Xôi Mặn",
+    "emoji": "🍚",
+    "description": "Tuyệt phẩm xôi mặn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết xôi mặn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Cơm"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Gạo"
+    ],
+    "price_min": 20000,
+    "price_max": 50000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese xôi mặn food",
+      "vietnam xôi mặn",
+      "xôi mặn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Xôi Mặn ngon Hà Nội"
+  },
+  {
+    "id": "banh_gio",
+    "name": "Bánh Giò",
+    "short_name": "Bánh Giò",
+    "emoji": "🥟",
+    "description": "Tuyệt phẩm bánh giò đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh giò là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Xế",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Ăn vặt"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn"
+    ],
+    "price_min": 15000,
+    "price_max": 30000,
+    "spice_level": 0,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh giò food",
+      "vietnam bánh giò",
+      "bánh giò dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Giò ngon Hà Nội"
+  },
+  {
+    "id": "banh_chung",
+    "name": "Bánh Chưng",
+    "short_name": "Bánh Chưng",
+    "emoji": "🍘",
+    "description": "Tuyệt phẩm bánh chưng đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh chưng là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Cơm"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Gạo"
+    ],
+    "price_min": 50000,
+    "price_max": 100000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 7,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh chưng food",
+      "vietnam bánh chưng",
+      "bánh chưng dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Chưng ngon Hà Nội"
+  },
+  {
+    "id": "banh_tet",
+    "name": "Bánh Tét",
+    "short_name": "Bánh Tét",
+    "emoji": "🍘",
+    "description": "Tuyệt phẩm bánh tét đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh tét là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Cơm"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Tự thưởng",
+      "Tụ tập"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Gạo"
+    ],
+    "price_min": 50000,
+    "price_max": 100000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh tét food",
+      "vietnam bánh tét",
+      "bánh tét dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Tét ngon Hà Nội"
+  },
+  {
+    "id": "mi_xao_mem",
+    "name": "Mì Xào Mềm",
+    "short_name": "Mì Xào",
+    "emoji": "🍝",
+    "description": "Tuyệt phẩm mì xào mềm đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết mì xào mềm là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối",
+      "Đêm"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Bò"
+    ],
+    "price_min": 40000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese mì xào mềm food",
+      "vietnam mì xào mềm",
+      "mì xào mềm dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Mì Xào Mềm ngon Hà Nội"
+  },
+  {
+    "id": "mi_xao_gion",
+    "name": "Mì Xào Giòn",
+    "short_name": "Mì Giòn",
+    "emoji": "🍝",
+    "description": "Tuyệt phẩm mì xào giòn đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết mì xào giòn là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản",
+      "Bò"
+    ],
+    "main_ingredients": [
+      "Hải sản",
+      "Bò"
+    ],
+    "price_min": 45000,
+    "price_max": 80000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese mì xào giòn food",
+      "vietnam mì xào giòn",
+      "mì xào giòn dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Mì Xào Giòn ngon Hà Nội"
+  },
+  {
+    "id": "hu_tieu_nam_vang",
+    "name": "Hủ Tiếu Nam Vang",
+    "short_name": "Hủ Tiếu NV",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm hủ tiếu nam vang đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết hủ tiếu nam vang là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Lợn",
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Lợn",
+      "Hải sản"
+    ],
+    "price_min": 45000,
+    "price_max": 75000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese hủ tiếu nam vang food",
+      "vietnam hủ tiếu nam vang",
+      "hủ tiếu nam vang dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Hủ Tiếu Nam Vang ngon Hà Nội"
+  },
+  {
+    "id": "bun_tom",
+    "name": "Bún Tôm",
+    "short_name": "Bún Tôm",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún tôm đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún tôm là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 40000,
+    "price_max": 70000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún tôm food",
+      "vietnam bún tôm",
+      "bún tôm dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Tôm ngon Hà Nội"
+  },
+  {
+    "id": "bun_hen",
+    "name": "Bún Hến",
+    "short_name": "Bún Hến",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bún hến đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bún hến là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Khô",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 25000,
+    "price_max": 45000,
+    "spice_level": 1,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 10,
+    "hanoi_relevance_score": 9,
+    "pexels_queries": [
+      "vietnamese bún hến food",
+      "vietnam bún hến",
+      "bún hến dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bún Hến ngon Hà Nội"
+  },
+  {
+    "id": "chao_hen",
+    "name": "Cháo Hến",
+    "short_name": "Cháo Hến",
+    "emoji": "🥣",
+    "description": "Tuyệt phẩm cháo hến đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cháo hến là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 25000,
+    "price_max": 45000,
+    "spice_level": 1,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cháo hến food",
+      "vietnam cháo hến",
+      "cháo hến dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cháo Hến ngon Hà Nội"
+  },
+  {
+    "id": "com_hen",
+    "name": "Cơm Hến",
+    "short_name": "Cơm Hến",
+    "emoji": "🍛",
+    "description": "Tuyệt phẩm cơm hến đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết cơm hến là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Nắng",
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Vừa",
+      "Mát",
+      "Nóng"
+    ],
+    "food_types": [
+      "Cơm",
+      "Khô"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản",
+      "Gạo"
+    ],
+    "price_min": 25000,
+    "price_max": 45000,
+    "spice_level": 1,
+    "heaviness_level": 2,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese cơm hến food",
+      "vietnam cơm hến",
+      "cơm hến dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Cơm Hến ngon Hà Nội"
+  },
+  {
+    "id": "banh_canh_cua",
+    "name": "Bánh Canh Cua",
+    "short_name": "Bánh Canh",
+    "emoji": "🍜",
+    "description": "Tuyệt phẩm bánh canh cua đậm đà hương vị, một lựa chọn tuyệt vời cho ngày hôm nay.",
+    "fun_fact": "Bạn có biết bánh canh cua là một trong những món được yêu thích nhất ở Hà Nội không?",
+    "meal_periods": [
+      "Sáng",
+      "Trưa",
+      "Tối"
+    ],
+    "weather_tags": [
+      "Mưa",
+      "Lạnh",
+      "Mát"
+    ],
+    "temperature_tags": [
+      "Nóng",
+      "Ấm"
+    ],
+    "food_types": [
+      "Nước",
+      "Bún/Phở/Miến"
+    ],
+    "mood_tags": [
+      "Chắc bụng",
+      "Nhanh gọn"
+    ],
+    "diet_tags": [],
+    "avoid_ingredients": [
+      "Hải sản"
+    ],
+    "main_ingredients": [
+      "Hải sản"
+    ],
+    "price_min": 40000,
+    "price_max": 80000,
+    "spice_level": 0,
+    "heaviness_level": 4,
+    "healthy_score": 5,
+    "popularity_score": 8,
+    "hanoi_relevance_score": 6,
+    "pexels_queries": [
+      "vietnamese bánh canh cua food",
+      "vietnam bánh canh cua",
+      "bánh canh cua dish",
+      "asian street food",
+      "delicious vietnamese food"
+    ],
+    "fallback_image_category": "food",
+    "map_search_query": "Bánh Canh Cua ngon Hà Nội"
+  }
+]

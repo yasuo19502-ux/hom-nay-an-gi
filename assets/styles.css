@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap');
+
+:root {
+    --primary: #FF5A36;
+    --primary-hover: #E94B2A;
+    --secondary: #FFC857;
+    --bg-cream: #FFF8EE;
+    --text-dark: #2B1B12;
+    --text-muted: #725A4D;
+    --success: #35A867;
+    --success-hover: #278C55;
+    --coral-soft: #FFDDD3;
+    --white: #FFFFFF;
+    --border-light: #F1E2D5;
+}
+
+/* Hide streamlit elements */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+.block-container {
+    padding-top: 1rem !important;
+    padding-bottom: 2rem !important;
+    max-width: 880px !important;
+}
+
+/* Global Font */
+html, body, [class*="css"]  {
+    font-family: 'Be Vietnam Pro', sans-serif !important;
+    background-color: var(--bg-cream);
+    color: var(--text-dark);
+}
+
+.stApp {
+    background-color: var(--bg-cream);
+}
+
+/* Custom Card */
+.custom-card {
+    background-color: var(--white);
+    border-radius: 28px;
+    box-shadow: 0 10px 30px rgba(43, 27, 18, 0.08);
+    overflow: hidden;
+    margin-bottom: 24px;
+    border: 1px solid var(--border-light);
+}
+
+.card-padding {
+    padding: 24px;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--text-dark) !important;
+    font-weight: 700 !important;
+}
+
+.text-primary {
+    color: var(--primary) !important;
+}
+
+.text-muted {
+    color: var(--text-muted) !important;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Image Wrapper */
+.dish-image-wrapper {
+    position: relative;
+    width: 100%;
+    height: 460px;
+    overflow: hidden;
+    border-radius: 26px 26px 0 0;
+}
+
+.dish-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.dish-image-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%);
+}
+
+.dish-badges {
+    position: absolute;
+    bottom: 16px;
+    left: 16px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+/* Chips and Badges */
+.badge {
+    background-color: var(--secondary);
+    color: var(--text-dark);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.chip {
+    display: inline-block;
+    background-color: var(--coral-soft);
+    color: var(--primary);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.weather-pill {
+    display: inline-flex;
+    align-items: center;
+    background-color: var(--white);
+    padding: 8px 16px;
+    border-radius: 24px;
+    border: 1px solid var(--border-light);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-muted);
+    box-shadow: 0 2px 8px rgba(43, 27, 18, 0.04);
+}
+
+/* Buttons - overriding Streamlit */
+/* Note: Streamlit buttons are tricky to style directly via generic CSS because of scoped classes. 
+We use markdown raw HTML for our main actions or target stButton. */
+
+/* Target the primary button specifically if we use type="primary" */
+.stButton button[data-baseweb="button"] {
+    border-radius: 20px !important;
+    font-weight: 700 !important;
+    height: 54px !important;
+    transition: all 0.2s ease !important;
+}
+
+/* Primary Button Override */
+div[data-testid="stButton"] button[kind="primary"] {
+    background-color: var(--primary) !important;
+    border-color: var(--primary) !important;
+    color: var(--white) !important;
+}
+
+div[data-testid="stButton"] button[kind="primary"]:hover {
+    background-color: var(--primary-hover) !important;
+    border-color: var(--primary-hover) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(255, 90, 54, 0.3) !important;
+}
+
+/* Secondary Button Override */
+div[data-testid="stButton"] button[kind="secondary"] {
+    background-color: var(--white) !important;
+    border-color: var(--border-light) !important;
+    color: var(--text-dark) !important;
+}
+
+div[data-testid="stButton"] button[kind="secondary"]:hover {
+    border-color: var(--primary) !important;
+    color: var(--primary) !important;
+    background-color: var(--bg-cream) !important;
+}
+
+/* Confirmed specific button class targeting if possible or via custom HTML */
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .dish-image-wrapper {
+        height: 320px;
+    }
+    .stButton button {
+        width: 100% !important;
+    }
+    .card-padding {
+        padding: 16px;
+    }
+    .block-container {
+        padding: 1rem 0.5rem !important;
+    }
+}
